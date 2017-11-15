@@ -1,0 +1,2 @@
+# UpdaterFolder
+Atualiza meu jogo.
