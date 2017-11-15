@@ -3,5 +3,5 @@
 <End of Version>
 
 <Version: 1.02>
-/www/img/characters/SF_Actor1.png https://imgur.com/Vc35USQ
+/img/characters/SF_Actor1.png https://imgur.com/Vc35USQ
 <End of Version>
