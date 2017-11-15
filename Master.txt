@@ -1,7 +1,1 @@
-<Version: 1.01>
-/data/Map002.json https://raw.githubusercontent.com/williangfalcao/UpdaterFolder/master/Map002.json
-<End of Version>
 
-<Version: 1.02>
-/img/characters/SF_Actor1.png https://imgur.com/Vc35USQ
-<End of Version>
